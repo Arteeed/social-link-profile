@@ -62,6 +62,7 @@ p {
     border-radius: 8px;
     color: white;
     background-color: #333333;
+    font-weight: bold;
 
 }
 button:hover {
